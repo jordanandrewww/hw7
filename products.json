@@ -1,24 +1,117 @@
-{"item":1, "name": "Graphic Tee", "description": "Superman graphic tee shirt",
-"price": "$17", "categories": ["graphic", "shirt"]},
-{"item":2, "name": "Striped Crop Top", "description": "Black and white striped short sleeve crop top",
-"price": "$20", "categories": ["cropped", "shirt"]},
-{"item":3, "name": "Plain White Tee", "description": "Plain white v-neck tee",
-"price": "$15", "categories": ["shirt"]},
-{"item":4, "name": "Plain White Tank", "description": "Plain white tank top",
-"price": "$10", "categories": ["shirt"]},
-{"item":5, "name": "Plain Black Tee", "description": "Plain black v-neck tee",
-"price": "$15", "categories": ["shirt"]},
-{"item":6, "name": "Basketball Shorts", "description": "Neon green basketball shorts",
-"price": "$25", "categories": ["shorts"]},
-{"item":7, "name": "Hello Kitty Shorts", "description": "White and pink cotton Hello Kitty shorts",
-"price": "$20", "categories": ["shorts"]},
-{"item":8, "name": "Jean Shorts", "description": "Light wash blue denim high rise jean shorts",
-"price": "$30", "categories": ["shorts"]},
-{"item":9, "name": "Jeans", "description": "Medium wash blue denim low rise jeans",
-"price": "$45", "categories": ["pants"]},
-{"item":10, "name": "Cargo pants", "description": "Medium rise khaki-colored cargo pants",
-"price": "$40", "categories": ["pants"]},
-{"item":11, "name": "Black leggings", "description": "High rise non-slip black leggings",
-"price": "$30", "categories": ["pants"]},
-{"item":12, "name": "Ripped Jeans", "description": "Low rise black jeans",
-"price": "$35", "categories": ["pants"]}
+{
+    "PRODUCTLIST": {
+      "PRODUCT": [
+        {
+          "item": 1,
+          "name": "Graphic Tee",
+          "description": "Superman graphic tee shirt",
+          "price": "$17",
+          "categories": [
+            "graphic",
+            "shirt"
+          ]
+        },
+        {
+          "item": 2,
+          "name": "Striped Crop Top",
+          "description": "Black and white striped short sleeve crop top",
+          "price": "$20",
+          "categories": [
+            "cropped",
+            "shirt"
+          ]
+        },
+        {
+          "item": 3,
+          "name": "Plain White Tee",
+          "description": "Plain white v-neck tee",
+          "price": "$15",
+          "categories": [
+            "shirt"
+          ]
+        },
+        {
+          "item": 4,
+          "name": "Plain White Tank",
+          "description": "Plain white tank top",
+          "price": "$10",
+          "categories": [
+            "shirt"
+          ]
+        },
+        {
+          "item": 5,
+          "name": "Plain Black Tee",
+          "description": "Plain black v-neck tee",
+          "price": "$15",
+          "categories": [
+            "shirt"
+          ]
+        },
+        {
+          "item": 6,
+          "name": "Basketball Shorts",
+          "description": "Neon green basketball shorts",
+          "price": "$25",
+          "categories": [
+            "shorts"
+          ]
+        },
+        {
+          "item": 7,
+          "name": "Hello Kitty Shorts",
+          "description": "White and pink cotton Hello Kitty shorts",
+          "price": "$20",
+          "categories": [
+            "shorts"
+          ]
+        },
+        {
+          "item": 8,
+          "name": "Jean Shorts",
+          "description": "Light wash blue denim high rise jean shorts",
+          "price": "$30",
+          "categories": [
+            "shorts"
+          ]
+        },
+        {
+          "item": 9,
+          "name": "Jeans",
+          "description": "Medium wash blue denim low rise jeans",
+          "price": "$45",
+          "categories": [
+            "pants"
+          ]
+        },
+        {
+          "item": 10,
+          "name": "Cargo pants",
+          "description": "Medium rise khaki-colored cargo pants",
+          "price": "$40",
+          "categories": [
+            "pants"
+          ]
+        },
+        {
+          "item": 11,
+          "name": "Black leggings",
+          "description": "High rise non-slip black leggings",
+          "price": "$30",
+          "categories": [
+            "pants"
+          ]
+        },
+        {
+          "item": 12,
+          "name": "Ripped Jeans",
+          "description": "Low rise black jeans",
+          "price": "$35",
+          "categories": [
+            "pants"
+          ]
+        }
+      ]
+    }
+  }
+  
