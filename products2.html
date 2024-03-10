@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="UTF-8">
+    <title>Products Page</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+<script>
+   $.get('products.json', function(data)
+        {
+            str = JSON.stringify(data);
+            document.write(str);
+        }
+
+   )
+</script>
+
+</body>
+</html>
